@@ -18,7 +18,7 @@ API de un ChatBot en Python.
 
 ## Descripción
 
-API de un ChatBot utilizando a ChatGPT de OpenAI (versión pagada de cuota de manejo).
+API de un ChatBot utilizando a ChatGPT de OpenAI (versión paga de cuota de manejo).
 
 ---
 
