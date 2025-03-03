@@ -1,0 +1,8 @@
+# Excluir entorno virtual
+.venv/
+venv/
+
+__pycache__/
+*.pyc
+*.pyo
+.env
