@@ -24,7 +24,7 @@ API de un ChatBot utilizando a ChatGPT de OpenAI (versión paga de cuota de mane
 
 ## Construido con
 
-El código se encuentra implementado con Python y OpenAI usando la siguiente librería:
+El código se encuentra implementado con Python y OpenAI usando las siguientes librerías:
 
 - OpenAI - Para la importación y utilización de ChatGPT
 - FastAPI - Framework web de Python que permite crear aplicaciones web de manera rápida y eficiente
