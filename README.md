@@ -37,7 +37,7 @@ El código se encuentra implementado con Python y OpenAI usando las siguientes l
 3. Clone este repositorio desde GitHub: https://github.com/JonEchev/chatbot-api rama: main.
 4. Logueese en: https://platform.openai.com/api-keys y cree una Secret Key.
 5. Inicialice el proyecto, desde Visual Studio Code
-6. Valide que las librerias esten correctamente instaladas en el IDE y que la SECRET KEY que creo en OpenAI este correctamente diligenciada en la variable de entorno: OPENAI_API_SECRET_KEY del archivo .env
+6. Valide que las librerias esten correctamente instaladas en el IDE y que la SECRET KEY que creo en OpenAI este correctamente diligenciada en la variable de entorno: OPENAI_API_SECRET_KEY del archivo .env (Sino esta creado, se debe crear el archivo en el resositorio)
 7. Elimine la carpeta .venv (si esta existe) y abra un terminal dentro de VS Code y cree un entorno virtual de Python, ejecutando el comando: python3 -m venv .venv
 8. En el mismo terminal y sino se ha activado (sino tiene (.venv) al inicio de la linea de comando en el Terminal), activa el entorno virtual con el siguiente comando: source .venv/bin/activate
 9. En el mismo terminal, ejecute el comando: python3 -m pip install openai
