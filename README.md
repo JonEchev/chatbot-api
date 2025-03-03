@@ -1,4 +1,4 @@
-# random-food-app
+# chatbot-api
 
 API de un ChatBot en Python.
 
