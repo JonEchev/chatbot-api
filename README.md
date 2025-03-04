@@ -1,6 +1,6 @@
 # chatbot-api
 
-API de un ChatBot dinamico en Python.
+API de un ChatBot dinámico en Python.
 
 > <p>#python #openai #fastapi</p>
 
@@ -18,7 +18,7 @@ API de un ChatBot dinamico en Python.
 
 ## Descripción
 
-API de un ChatBot dinamico utilizando a ChatGPT de OpenAI (versión paga de cuota de manejo).
+API de un ChatBot dinámico utilizando a ChatGPT de OpenAI (versión paga de cuota de manejo).
 
 ---
 
